@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author king
+ *
+ */
+module LabPadroesProjetoJava {
+}
